@@ -1,0 +1,47 @@
+{
+    "cutofftime": {
+        "Inbox": 24,
+        "Drafts": 1,
+        "Sent Items": 1,
+        "Spam": 1,
+        "Trash": 1
+    },
+    "mboxes": {
+        "mbox01": {
+            "imap": "",
+            "port": 993,
+            "username": "",
+            "password": ""
+        },
+        "mbox02": {
+            "imap": "",
+            "port": 993,
+            "username": "",
+            "password": ""
+        },
+        "mbox03": {
+            "imap": "",
+            "port": 993,
+            "username": "",
+            "password": ""
+        },
+        "mbox04": {
+            "imap": "",
+            "port": 993,
+            "username": "",
+            "password": ""
+        },
+        "mbox05": {
+            "imap": "",
+            "port": 993,
+            "username": "",
+            "password": ""
+        },
+        "mbox06": {
+            "imap": "",
+            "port": 993,
+            "username": "",
+            "password": ""
+        }                
+    }
+}
